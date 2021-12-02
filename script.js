@@ -30,7 +30,12 @@ function getOperation(event) {
         deleteLast();
     }
     else {
-        updateDisplay(value);
+        const displayValue = display.textContent;
+        const lastIndex = displayValue.length - 1;
+        const lastSymbol = displayValue[lastIndex];
+        if (lastSymbol !== '+' && lastSymbol !== '-' && lastSymbol !== '*' && lastSymbol !== '/' && lastSymbol !== '.') {
+            updateDisplay(value);
+        } 
     }
 }
 
