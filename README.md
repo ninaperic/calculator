@@ -16,7 +16,7 @@
 * [**Deployment**](#deployment)
 * [**Acknowledgements**](#acknowledgements)
 
-![Screenshot of the website](https://github.com/ninaperic/vintage-clocks/blob/main/assets/readme_images/devices.png)
+![Screenshot of the website](assets/readme_images/calculator.png)
 
 ## Features
 
