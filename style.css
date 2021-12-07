@@ -6,6 +6,7 @@ body {
     min-height: 100vh;
     margin: 0;
     --calculator-size: 500px;
+    background-color: lavenderblush;
 }
 
 .calculator {
@@ -24,13 +25,15 @@ body {
 .display {
     height: 65px;
     width: 100%;
-    background-color: darksalmon;
+    background-color: palevioletred;
+    font-size: 30px;
 }
 
 .controls {
     display: flex;
     flex-grow: 1;
     justify-content: space-between;
+    background-color: lightpink;
 }
 
 .numbers {
