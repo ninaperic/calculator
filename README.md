@@ -1,8 +1,7 @@
 # Calculator
 
-Vintage Clocks Shop is a website that represents our shop where we sell vintage clocks. It is created so the people can find information about Vintage Clocks Shop, what we sell and also to be able to find us and contact us.
+<a href="https://ninaperic.github.io/calculator/" alt="calculator" target="_blank">Calculator</a> is the second project for the Full Stack Software Developer (e-Commerce) Diploma at the Code Institute.
 
-Here you can explore our <a href="https://ninaperic.github.io/vintage-clocks/" alt="vintage-clocks-shop" target="_blank">Vintage Clocks Shop</a>.
 
 ## Edge cases 
 
@@ -43,57 +42,10 @@ Here you can explore our <a href="https://ninaperic.github.io/vintage-clocks/" a
 ## User stories 
 
 - As a user I want to understand what Vintage Clocks Shop is about.
-- As a user I want to see pictures of the clocks the shop sells.
-- As a user I want to navigate trough the pages od the web site.
-- As a user I want to be able to contact the shop.
-- As a user I want to see where the shop is located.
-- As a user I want to see who made the website.
-
-## Site Structure
-
-Vintage Clocks Shop has three pages About, Gallery and Contact. On the About page the user can read the story about our shop. Gallery and Contact pages provide a collection of images with our latest clocks and information about how to find us and contact us.
-
-## Design Choices
-
-- Typography
-
-  - The font used for the text was 'Dancing Script' which is cursive and gives the web site a vintage look.
-
-- Colour Scheme
-
-  - The color scheme is also based on vintage looking colors, that give impression of warmth and cozy feeling. 
-
-![Color palette](assets/readme_images/color_palette.jpg)
 
 ## Features
 
 ### Existing Features (Functions and structure)
-
-- __Navigation Bar__
-
-  - Featured on all three pages, the full responsive navigation bar includes links to the About page, Gallery and Contact page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
-
-![Nav Bar](https://github.com/ninaperic/vintage-clocks/blob/main/assets/readme_images/nav-bar.png)
-
-- __About Page__
-
-  - About page provides information to the user about the store, the reason why it was open, when it was open and it's opening hours.
-
-![About Page](https://github.com/ninaperic/vintage-clocks/blob/main/assets/readme_images/about.png)
-
-- __Gallery Page__
-
-  - Gallery page will provide the user with collection of pictures to see some of the newest clocks we have in our shop.
-
-![Gallery](https://github.com/ninaperic/vintage-clocks/blob/main/assets/readme_images/gallery.png)
-
-- __Contact Page__
-
-  - This page allows the user to find us and contact us. It also provides our e-mail adress and phone number.
-  - The user will be able to send us a message but for that the user will be asked first to write their name and e-mail adress. 
-
-![Contact](https://github.com/ninaperic/vintage-clocks/blob/main/assets/readme_images/contact.png)
 
  - __The Footer__ 
 
