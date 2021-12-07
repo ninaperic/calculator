@@ -24,10 +24,10 @@
 
 The calculator allows basic arithmetic operations:
 
-+ - addition
-- - subtraction
-* - multiplication
-÷ - division
+ - addition +
+ - subtraction -
+ - multiplication *
+ - division ÷
  
 ### Future Features
 
