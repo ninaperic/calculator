@@ -77,8 +77,7 @@ Calculator is functional and properly displayed in the following web browsers: G
 2. From the source section drop-down menu, select the Master Branch
 3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-
-
+The live link can be found here: https://ninaperic.github.io/calculator/
 
 - Cloning project locally 
 
