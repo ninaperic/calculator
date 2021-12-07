@@ -77,7 +77,6 @@ Calculator is functional and properly displayed in the following web browsers: G
 2. From the source section drop-down menu, select the Master Branch
 3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-![Deploying Steps](assets/readme_images/deploying2.png)
 
 The live link can be found here - https://ninaperic.github.io/vintage-clocks/
 
@@ -90,8 +89,6 @@ The live link can be found here - https://ninaperic.github.io/vintage-clocks/
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type git clone, and then paste the URL copied from GitHub.
 7. Press enter and the local clone will be created.
-
-![Cloning Steps](assets/readme_images/cloning.png)
 
 
 ## Acknowledgements
